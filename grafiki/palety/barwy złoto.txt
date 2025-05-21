@@ -1,0 +1,8 @@
+| Nazwa       | Kod HEX   | Opis                    |
+| ----------- | --------- | ----------------------- |
+| Lightest    | `#FFF3A1` | Jasny złoty (highlight) |
+| Lighter     | `#FFE44D` | Lekkie światło          |
+| Base (main) | `#FFD700` | Kolor bazowy (złoty)    |
+| Darker      | `#CCAC00` | Cień                    |
+| Darkest     | `#997F00` | Głęboki cień            |
+| Contrast    | `#5C4A00` | Kontrastowy cień        |

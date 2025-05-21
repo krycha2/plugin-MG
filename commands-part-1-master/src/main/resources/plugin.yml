@@ -1,0 +1,21 @@
+name: CommandsPart1
+version: ${project.version}
+main: me.kodysimpson.commandspart1.MainMG
+api-version: 1.17
+
+commands:
+  god:
+    description: sdsa
+    usage: /<command>
+  test:
+    description: sdas
+    permission: MG.test
+    permission-message: sdasdsa
+    usage: /<command>
+
+permissions:
+  MG.test:
+    description: test
+    default: not op
+    children:
+      permissions.kill: false
