@@ -12,6 +12,10 @@ commands:
     permission: MG.test
     permission-message: sdasdsa
     usage: /<command>
+  repeat:
+    description: Repeat stuff back to you
+  fart:
+    description: Fart on a fool
 
 permissions:
   MG.test:
